@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=코딩이%20다가%20아닌%20개발자%20코다&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=백엔드%20개발자%20코다👋&fontSize=80)
 
 <!--
 **yjksw/yjksw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
