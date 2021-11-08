@@ -6,7 +6,8 @@
 <div align=center>
   
 [![Dev Blog Badge](http://img.shields.io/badge/-Dev%20Blog-316B83?style=flat&logo=github&link=https://yjksw.github.io)](https://yjksw.github.io)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-63B4B8?style=flat&logo=Gmail&logoColor=white&link=mailto:cairofaith@gmail.com)](mailto:cairofaith@gmail.com)
+[![Resume Badge](http://img.shields.io/badge/-Resume-63B4B8?style=flat&logo=notion&link=https://scratched-shallot-51d.notion.site/dc41c9263ae742ec9d56f9a42d49f9a1)](https://scratched-shallot-51d.notion.site/dc41c9263ae742ec9d56f9a42d49f9a1)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-5F939A?style=flat&logo=Gmail&logoColor=white&link=mailto:cairofaith@gmail.com)](mailto:cairofaith@gmail.com)
 </div>
   
 <p>
